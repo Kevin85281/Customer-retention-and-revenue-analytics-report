@@ -1,7 +1,5 @@
 # Customer-retention-and-revenue-analytics-report
 
-Customer Retention and Revenue Analytics Dashboard
-4
 Overview
 
 This project is an end to end analytics solution built in Power BI to measure how customer retention connects to revenue performance and operational outcomes. It combines cohort analysis with executive level KPIs so teams can understand not just how much they sell, but how well they keep customers over time.
